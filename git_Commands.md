@@ -38,3 +38,4 @@ git clone: To clone from Github including the files, .git and bridge
 
 git revert: To revert back the commit
 create a new line that didnt exist before!!!!
+I try out a few things
